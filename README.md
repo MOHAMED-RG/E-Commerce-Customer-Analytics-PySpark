@@ -111,3 +111,10 @@ E-Commerce-Customer-Analytics-PySpark/
 ├── customer_distribution_by_region.png
 └── average_acquisition_cost_by_segment.png
 ```
+## 🏁 Conclusion
+
+This project demonstrated an end-to-end customer analytics workflow using **PySpark and Databricks**. The analysis explored customer segments, demographics, geographic distribution, and acquisition costs using DataFrame transformations, aggregations, window functions, and Spark SQL.
+
+The project also provided practical experience with **Delta Lake and partitioning**, including storing the final customer analysis as a Delta table partitioned by `region` and querying the stored data by region.
+
+Overall, this project strengthened my practical understanding of **PySpark for large-scale data processing and analytics**, while demonstrating how Spark can be used to transform, analyze, store, and visualize real-world data.
